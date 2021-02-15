@@ -1,7 +1,7 @@
-# centos-openjdk11
+# centos-openjdk
 ### Introduction
-- systemd(systemctl command) enabled CentOS base image with openjdk11 and some utiliies
-- This image is based on hjben/centos-systemd:latest
+- CentOS base image with openjdk and some utiliies
+- This image is based on hjben/centos-systemd:latest, systemd(systemctl command) command is enabled
 
 ### Usage
 - Usage for this is perfectly same with hjben/centos-systemd:latest
