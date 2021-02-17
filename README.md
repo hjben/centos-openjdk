@@ -1,6 +1,6 @@
 # centos-openjdk
 ### Introduction
-- CentOS base image with openjdk and some utiliies
+- CentOS base image with openjdk
 - This image is based on hjben/centos-systemd:latest, systemd(systemctl command) command is enabled
 
 ### Usage
